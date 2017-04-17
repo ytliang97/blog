@@ -6,7 +6,7 @@ tags: [interface, 介面]
 image_description: false
 description: 從入門的角度為介面下基本的定義解釋。
 comments: true
-published: false
+published: true
 ---
 ## 確立何謂軟體？
 

@@ -7,14 +7,14 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: ytliang97
-title: ytliang97's blog
+title: :)
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: ytliang97's blog
 
 description: Stylish Jekyll Theme
 author:

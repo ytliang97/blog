@@ -1,3 +1,13 @@
+---
+layout: post
+title: "描述系統介面"
+categories: [軟體工程]
+tags: [interface, 介面]
+image_description: false
+description: 從入門的角度為介面下基本的定義解釋。
+comments: true
+published: false
+---
 ## 確立何謂軟體？
 
   軟體並不一定使包括可以在電腦上執行的電腦程式，有些定義中，與電腦程式相關的文件，一般也被認為是軟體的一部份。簡單的說軟體就是程式加文件的集合體。

@@ -21,7 +21,12 @@
 
       <div class="container content">
         {{ content }}
+        {% if page.comments %}
+            <p>hi</p>
+            {% include disqus.html %}
+        {% endif %}
       </div>
+
     </div>
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>

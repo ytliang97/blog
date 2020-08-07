@@ -5,7 +5,9 @@ layout: default
 <div class="page">
   <h1 class="page-title">{{ page.title }}</h1>
   {{ content }}
-  {% if page.comments %}
-    {% include disqus.html %}
-  {% endif %}
 </div>
+
+{% if page.comments %}
+    <p>hi</p>
+    {% include disqus.html %}
+{% endif %}

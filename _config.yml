@@ -2,7 +2,7 @@
 title:               Yanci's blog
 tagline:             ''
 description:         'Deep Learning, computational neural science, biomedical engineering, economics.'
-url:                 https://ytliang97.github.io/
+url:                 http://ytliang97.github.io/
 baseurl:             ''
 paginate:            5
 permalink:           pretty

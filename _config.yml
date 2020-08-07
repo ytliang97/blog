@@ -22,7 +22,7 @@ title: Yanci's blog
 email: ytliang97@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Deep Learning, computational neural science, biomedical engineering, economics.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "ytliang97.github.io" # the subpath of your site, e.g. /blog
 url: "http://ytliang97.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: YenCi_OvO
 github_username:  ytliang97

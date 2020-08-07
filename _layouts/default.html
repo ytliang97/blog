@@ -22,7 +22,6 @@
       <div class="container content">
         {{ content }}
         {% if page.comments %}
-            <p>hi</p>
             {% include disqus.html %}
         {% endif %}
       </div>
@@ -32,5 +31,6 @@
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
     <script src='{{ site.baseurl }}/public/js/script.js'></script>
+    <script id="dsq-count-scr" src="//https-ytliang97-github-io.disqus.com/count.js" async></script>
   </body>
 </html>

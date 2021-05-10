@@ -65,3 +65,8 @@ comments可以有很多種顏色
 這次有來信報錯`The page build failed for the `master` branch with the following error:`
 
 我把dufault.html那裡的disqus相關的code刪除，再把if page.comment的語法加到comments.html那裡
+
+
+煩，還是不行，我把lanyon的security自動更推的部分merge了，也把comment label給建立了，他的instrcution頁面有說要自己建label。
+
+喔靠腰喔，結果不知是他定時刷新就突然好了，還是我在別人有用這個utterance的地方去認證了一次，他就突然好了0.0

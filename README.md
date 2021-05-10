@@ -60,3 +60,8 @@ comments可以有很多種顏色
 我查了comments的用法，把default.html加入include的語法，然後在`_includes/`把之前用失敗的disqus改成comments.html
 
 再把page.html那裡的script移過去，希望能work。
+
+
+這次有來信報錯`The page build failed for the `master` branch with the following error:`
+
+我把dufault.html那裡的disqus相關的code刪除，再把if page.comment的語法加到comments.html那裡

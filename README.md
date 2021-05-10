@@ -40,6 +40,23 @@ comments可以有很多種顏色
 我選了個很炫的橘色XDD
 
 
-我直接把'<script></script>'放在page.html的最下方，不過jekyll server看上去沒變化。
+我直接把`<script></script>`放在page.html的最下方，不過jekyll server看上去沒變化。
 
 所以直接推看看。
+
+
+沒用，我去看有人有bug是在網域名有點點`.`的情況下，我有兩個點。
+
+不過也有人提到說已經fixed了，所以我還是新增一篇文章試試好了。
+
+
+但還是不work。
+
+
+所以我就去查lanyon的設定要怎麼加入comment
+
+[6. Integrating Disqus comments by Nikhita Raghunath](https://www.nikhita.dev/build-blog-using-github-jekyll#disqus)
+
+我查了comments的用法，把default.html加入include的語法，然後在`_includes/`把之前用失敗的disqus改成comments.html
+
+再把page.html那裡的script移過去，希望能work。

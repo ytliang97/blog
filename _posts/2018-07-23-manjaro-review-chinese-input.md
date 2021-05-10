@@ -228,16 +228,27 @@ hime &
 
 ###### 參考資料：
 [Arch Linux Yaourt AUR套件管理](https://cms.35g.tw/coding/arch-linux%E5%AE%89%E8%A3%9Dyaourt%E9%9D%9E%E5%AE%98%E6%96%B9%E5%A5%97%E4%BB%B6%E7%AE%A1%E7%90%86%E5%93%A1/) by danny
+
 [讓 Linux 下的中文輸入法更接近微軟新注音使用體驗（以Ubuntu、Linux Mint為例）](http://goodjack.blogspot.com/2013/08/linux-phonetic-setting.html) by 林小克
+
 [107.02.20 manjaro 安裝 vim](https://aben20807.blogspot.com/2018/02/1070220-manjaro-vim20.html) by 黃柏瑄 
+
 [HIME Input Method Editor](https://github.com/hime-ime/hime) by hime-ime
+
 [107.02.20 manjaro 安裝中文輸入法 hime](https://aben20807.blogspot.com/2018/02/1070220-manjaro-hime20.html) by 黃柏瑄
+
 [在 Arch Linux 安裝 Hime](https://www.willychen.org/165/install-hime-on-arch-linux/)
+
 [Window manager](https://wiki.archlinux.org/index.php/Window_manager) by Arch Wiki
+
 [Xprofile](https://wiki.archlinux.org/index.php/Xprofile) by Arch Wiki
+
 [解析环境变量XMODIFIERS/GTK_IM_MODULE](https://blogs.gnome.org/raywang/2007/01/26/%E8%A7%A3%E6%9E%90%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8Fxmodifiersgtk_im_module/) by raywang
+
 [104.10.08 Kali Linux2.0 (三)中文輸入(hime)安裝過程](https://aben20807.blogspot.com/2015/10/1041008-kali-linux20_8.html) by 黃柏瑄 
+
 [Gnome/KDE/Xorg 底下的個人啟始命令稿: 到底是 .xinitrc .xsession 還是 .xprofile?](https://newtoypia.blogspot.com/2012/06/xinitrc-xsession-xprofile.html)
+
 [Localization/Traditional Chinese (正體中文)](https://wiki.archlinux.org/index.php/Localization/Traditional_Chinese_(%E6%AD%A3%E9%AB%94%E4%B8%AD%E6%96%87)) by Arch Wiki
 
 

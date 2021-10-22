@@ -166,8 +166,8 @@ pre {
   padding: 1rem;
   font-size: .8rem;
   line-height: 1.4;
-  white-space: pre;
   white-space: pre-wrap;
+  overflow: auto;
   word-break: break-all;
   word-wrap: break-word;
   background-color: #f9f9f9;
@@ -177,6 +177,7 @@ pre code {
   font-size: 100%;
   color: inherit;
   background-color: transparent;
+  white-space: pre;
 }
 
 /* Pygments via Jekyll */

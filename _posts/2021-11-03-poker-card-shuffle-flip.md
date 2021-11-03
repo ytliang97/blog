@@ -13,7 +13,7 @@ shuffle: [Building a Shuffling Cards Animation - w/ CSS and JavaScript](https://
 
 　
 
-The following is the final result.
+The following is the final result.  
 ![demo](https://github.com/ytliang97/ytliang97.github.io/blob/master/_posts/imgs/demo.gif?raw=true)
 
 
